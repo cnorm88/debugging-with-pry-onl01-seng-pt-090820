@@ -1,4 +1,4 @@
-def plus_two(num)
+def plus_two(new_num)
  new_num = num + 2
  puts num
 	binding.pry
